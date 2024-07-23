@@ -1,0 +1,9 @@
+name: Zomboney
+main: com.nikode.zomboney.Zomboney
+version: 1.0
+api-version: 1.13
+commands:
+	zombify:
+		description: Turns a player into a zombie, giving them zombie-like abilities.
+		usage: /zomboney <command>
+		permission: zomboney.canzombify
